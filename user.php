@@ -26,3 +26,8 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['selectfiltertype'] = '선택';
+
+$string['addcondition'] = '조건 추가';
+$string['countparticipantsfound'] = '{$a}명의 참여자';
+$string['clearfilters'] = '필터 초기화';
+$string['applyfilters'] = '필터 적용';

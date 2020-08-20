@@ -227,3 +227,5 @@ $string['usercontextrepositorydisabled'] = '사용자 문맥에있는 저장소�
 $string['wrongcontext'] = '문맥에 접근할 수 없음';
 $string['xhtmlerror'] = '아마도 XHTML strict 헤더를 사용하고 있는 것 같습니다. 어떤 YUI 구성요소는 이 모드에서 동작하지 않습니다. 무들에서는 꺼 놓으십시요.';
 $string['ziped'] = '폴더 압축 성공';
+
+$string['keyword'] = '키워드';

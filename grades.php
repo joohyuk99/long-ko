@@ -674,3 +674,5 @@ $string['writinggradebookinfo'] = '성적부 쓰기 설정';
 $string['xml'] = 'XML형식';
 $string['yes'] = '예';
 $string['yourgrade'] = '당신의 성적';
+
+$string['contributiontocoursetotal'] = '성취도';

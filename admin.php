@@ -1088,3 +1088,11 @@ $string['moodlebrandedapp_help'] = '<p>브랜드 무들 앱은 무료 무들 앱
 $string['enableuserfeedback_desc'] = '활성화된 경우 사용자가 무들 HQ에 무들 소프트웨어에 대한 피드백을 제공할 수 있도록 바닥글에 \'이 소프트웨어에 대한 피드백 제공\' 링크가 표시됩니다. \'다음 피드백 주의사항\' 옵션이 설정된 경우 대시보드에 주의사항이 표시되기도 합니다. \'다음 피드백 주의사항\'을 \'없음\'으로 설정하면 \'이 소프트웨어에 대한 피드백 제공\' 링크가 바닥글에 남아 있는 동안 대시보드 주의사항이 비활성화됩나다.';
 $string['userfeedbackremindafter'] = '다음 시간 후 주의사항이 보여집니다.';
 $string['userfeedbackremindafter_desc'] = '다음 일수가 지난 후 사용자에게 피드백을 제공하도록 다시 알림.';
+
+$string['usermanagement'] = '사용자 관리';
+$string['privacyandpolicies'] = '개인정보 보호정책';
+$string['privacysettings'] = '개인정보 설정';
+string['policysettings'] = '정책 설정';
+
+$string['course_customfield'] = '강좌 커스텀'
+$string['logossettings'] = '로고';

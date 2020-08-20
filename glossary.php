@@ -311,3 +311,5 @@ $string['withauthor'] = '저자명과 함께';
 $string['withoutauthor'] = '저자 생략';
 $string['writtenby'] = '올린이:';
 $string['youarenottheauthor'] = '글 쓴 사람만 내용을 고칠 수 있습니다.';
+
+$string['alias'] = '키워드';

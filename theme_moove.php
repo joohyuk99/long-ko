@@ -9,3 +9,5 @@ $string['notcalculatedyet'] = '계산되지 않음';
 $string['diskusage'] = '디스크 사용량(moodledata)';
 $string['totalcourses'] = '모든 수업';
 $string['onlineusers'] = '온라인 사용자(지난 5분간 접속자)';
+
+$string['totalusers'] = '활성 / 비활성 사용자';

@@ -44,3 +44,6 @@ $string['spamkeyword'] = '키워드';
 $string['spamoperation'] = '작동시작';
 $string['spamresult'] = '사용자 정보 검색 결과 :';
 $string['spamsearch'] = '이 목록으로 검색';
+
+
+$string['spamkeyword'] = '키워드';

@@ -216,3 +216,13 @@ $string['viewbadge'] = '발급된  뱃지 보기';
 $string['visible'] = '볼수 있음';
 $string['warnexpired'] = '(이 뱃지는 만료되었습니다)';
 $string['year'] = '년';
+
+$string['badgestoearn'] = '가능한 뱃지 수: {$a}';
+$string['criteria_descr'] = '다음 조건을 만족하면 이 뱃지를 받을 수 있습니다:';
+
+$string['criteria_descr_2'] = '이 뱃지는 다음 조건에 해당하는 <strong>{$a}</strong> 사용자가 받을 수 있습니다:';
+$string['awardedtoyou'] = '획득 날짜';
+
+html/moodle/lang/en/badges.php:$string['backpackdetails'] = '백팩 설정';
+html/moodle/lang/en/badges.php:$string['backpacksettings'] = '백팩 설정';
+$string['managebackpacks'] = '백팩 관리';

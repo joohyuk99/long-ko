@@ -254,3 +254,6 @@ $string['totalcategorysearchresults'] = '전체 범주 : {$a}';
 $string['totalcoursesearchresults'] = '전체 강좌 : {$a}';
 $string['unnamedsection'] = '이름없는 섹션';
 $string['userinfo'] = '사용자정보';
+
+$string['generalrestoredefaults'] = '일반 설정 기본값';
+$string['asyncgeneralsettings'] = '백업 동기화';
